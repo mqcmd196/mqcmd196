@@ -5,7 +5,7 @@
 
 ### Follow me!
 <body>
-    <a href="https://twitter.com/mqcmd196?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mqcmd196 on Twitter</a>
+    <a href="https://twitter.com/mqcmd196_pub?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mqcmd196_pub on Twitter</a>
     <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 </body>
 <br>
