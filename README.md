@@ -1,7 +1,7 @@
 ## Hi, I'm Yoshiki!
 - 🏫 I'm a senior at The University of Tokyo.
 - 👨‍🎓 My major is mechanical and information engineering.
-- 🖥 I'm also interested in operation system, machine learning and computer vision.
+- 🖥 I'm also interested in operating system, machine learning and computer vision.
 
 ### Follow me on Twitter and GitHub!
 <body>
