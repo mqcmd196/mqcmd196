@@ -3,7 +3,7 @@
 - 👨‍🎓 My major is mechanical and information engineering.
 - 🖥 I'm also interested in operating system, machine learning and computer vision.
 
-### Follow me on Twitter and GitHub!
+### Please follow me on Twitter and GitHub!
 <body>
     <a href="https://twitter.com/mqcmd196_pub?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mqcmd196_pub on Twitter</a>
     <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
