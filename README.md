@@ -1,5 +1,5 @@
 ## Hi, I'm Yoshiki!
-- 🏫 I'm a 1st grade master course student at The University of Tokyo.
+- 🏫 I'm a 2nd grade master course student at The University of Tokyo.
 - 👨‍🎓 My major is mechanical and information engineering.
 - 🖥 I'm also interested in operating system, machine learning and computer vision.
 
