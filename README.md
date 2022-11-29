@@ -12,7 +12,7 @@
 - 🖥 I'm interested in software engineering in robotics fields.
 
 [![mqcmd196](https://github-readme-stats.vercel.app/api?username=mqcmd196&count_private=true&show_icons=true&theme=dark)](https://github.com/mqcmd196)
-### Please follow me on Twitter and GitHub!
+### Please follow my Twitter and GitHub!
 <body>
     <a href="https://twitter.com/mqcmd196_pub?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mqcmd196_pub on Twitter</a>
     <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
