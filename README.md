@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-- 🏫 I'm a 1st grade Ph.D course student at The University of Tokyo.
+- 🏫 I'm a 2nd grade Ph.D course student at The University of Tokyo.
 - 👨‍🎓 My major is mechanical and information engineering.
 - 🖥 I'm interested in software engineering in robotics fields.
 
