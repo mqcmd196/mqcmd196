@@ -12,8 +12,8 @@
 </div>
 
 ## About me
-- 🏫 I'm a 2nd grade Ph.D course student at The University of Tokyo.
-- 🖥 I'm interested in software engineering in robotics fields.
+- 🏫 I'm a 3rd grade Ph.D course student at The University of Tokyo.
+- 🖥 I'm interested in software engineering in the robotics field.
 
 ### Please follow my X and GitHub!
 <body>
