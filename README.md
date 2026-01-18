@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=mqcmd196&style=flat-square&color=green">
 </div>
 
-<div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=mqcmd196&count_private=true">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqcmd196&layout=donut&hide=jupyter%20notebook&size_weight=0.3&count_weight=0.7&langs_count=5&count_private=true">
-</div>
-
 ## About me
 - 🏫 I'm a 3rd grade Ph.D course student at The University of Tokyo.
 - 🖥 I'm interested in software engineering in the robotics field.
