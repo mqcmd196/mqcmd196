@@ -7,7 +7,7 @@
 </div>
 
 ## About me
-- 🏫 I'm a 3rd grade Ph.D course student at The University of Tokyo.
+- 🏫 I'm a Project Assistant Professor at The University of Tokyo.
 - 🖥 I'm interested in software engineering in the robotics field.
 
 ### Please follow my X and GitHub!
